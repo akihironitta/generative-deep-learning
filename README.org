@@ -1,0 +1,14 @@
+#+TITLE: Generative Deep Learning
+
+* DESCRIPTION
+
+  PyTorch implementation of deep learning models introduced in Generative Deep Learning (O’Reilly).
+
+  The official code repository (in Keras) is https://github.com/davidADSP/GDL_code.
+
+* List of Main Models
+  1. Paint: CycleGAN
+  2. Write: RNN, LSTM
+  3. Compose: RNN, MuseGAN
+  4. Play: VAE, MDN-RNN
+
