@@ -6,7 +6,7 @@
 
   The official code repository (in Keras) is https://github.com/davidADSP/GDL_code.
 
-* List of Main Models
+* List of Models
   1. Paint: CycleGAN
   2. Write: RNN, LSTM
   3. Compose: RNN, MuseGAN
